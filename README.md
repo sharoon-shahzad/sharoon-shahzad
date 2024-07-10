@@ -49,9 +49,10 @@ Hi there! 👋 My name is Sharoon and I am a computer science student at Air Uni
     <a href="https://getbootstrap.com/" target="_blank">
         <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a>
-      <a href="https://getbootstrap.com/" target="_blank">
-        <img alt="Bootstrap" src="https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</a>
+
 </p>
 
 ### Backend Development
