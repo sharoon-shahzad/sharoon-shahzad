@@ -1,7 +1,16 @@
 <h1 align="center">Hey, I'm Sharoon Shahzad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## :sassy_man: About Me
-Hi there! 👋 My name is Sharoon and I am a computer science student at Air University, Islamabad. My passion lies in web development, and I have gained expertise in the MERN stack through my studies, projects, and internships. I am a proactive learner who enjoys staying up to date with the latest trends and developments in computer science. As a team player and a creative developer, I always look for ways to improve and take on new challenges. I also love the beauty of the clouds and sky and often capture their stunning visuals.
+Hello! 👋 I am Sharoon, a computer science student at Air University, Islamabad. I specialize in web development, focusing on the MERN stack, and gaining expertise through my studies, projects, and internships.
+
+As a proactive learner, I stay updated with the latest trends in computer science. I am a dedicated team player and a creative developer, always seeking new challenges and opportunities for improvement.
+
+Outside of coding, I enjoy playing soccer, reflecting my love for the sport and its dynamic nature.
+<blockquote>
+  "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+</blockquote>
+
+
 
 ## 👯 Connect with Me
 <p align="center">
